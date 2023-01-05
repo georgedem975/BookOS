@@ -46,4 +46,4 @@ __Этапы развития операционных систем__
     >
     * разные системы команд.
 
-<p align="right">➡️</p>
+<p align="right"> <a href=https://github.com/georgedem975/BookOS/blob/master/chapter_two/README.md>➡️</a></p>
