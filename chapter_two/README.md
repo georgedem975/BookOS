@@ -5,7 +5,7 @@
 
 __Цикл Деминга__
 
-![1](https://github.com/georgedem975/BookOS/blob/master/chapter_two/assets/1.png)
+<p align="center"><img src=https://github.com/georgedem975/BookOS/blob/master/chapter_two/assets/1.png></a></p>
 
 Уровни архитектуры операционных систем:
 * функциональная архитектура
