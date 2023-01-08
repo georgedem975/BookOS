@@ -24,4 +24,7 @@ __Многослойная архитектура__
 __Модульная архитектура__
 <p align="center"><img src=https://github.com/georgedem975/BookOS/blob/master/chapter_three/assets/3.png></a></p>
 
+__Микроядерная архитектура__
+<p align="center"><img src=https://github.com/georgedem975/BookOS/blob/master/chapter_three/assets/4.png></a></p>
+
 <p align="center"> <a href=https://github.com/georgedem975/BookOS/blob/master/chapter_two/README.md>⬅️</a><a href=https://github.com/georgedem975/BookOS/blob/master/README.md>⏺</a><a href=>➡️</a></p>
