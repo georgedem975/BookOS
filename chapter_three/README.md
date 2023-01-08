@@ -18,4 +18,7 @@
 __Монолитная архитектура__
 <p align="center"><img src=https://github.com/georgedem975/BookOS/blob/master/chapter_three/assets/1.png></a></p>
 
+__Многослойная архитектура__
+<p align="center"><img src=https://github.com/georgedem975/BookOS/blob/master/chapter_three/assets/2.png></a></p>
+
 <p align="center"> <a href=https://github.com/georgedem975/BookOS/blob/master/chapter_two/README.md>⬅️</a><a href=https://github.com/georgedem975/BookOS/blob/master/README.md>⏺</a><a href=>➡️</a></p>
