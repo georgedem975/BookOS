@@ -16,6 +16,6 @@
 + разделение модулей операционной системы на модули ядра и модули относящихся к вспомогательным функциям(утилиты).
 
 __Монолитная архитектура__
-
+<p align="center"><img src=https://github.com/georgedem975/BookOS/blob/master/chapter_three/assets/1.png></a></p>
 
 <p align="center"> <a href=https://github.com/georgedem975/BookOS/blob/master/chapter_two/README.md>⬅️</a><a href=https://github.com/georgedem975/BookOS/blob/master/README.md>⏺</a><a href=>➡️</a></p>
