@@ -9,3 +9,4 @@
 ___Оглавление___
 * Эволюция понятия операционная система [📖](https://github.com/georgedem975/BookOS/blob/master/chapter_one/README.md)
 * Функциональная архитектура современной операционной системы [📖](https://github.com/georgedem975/BookOS/blob/master/chapter_two/README.md)
+* Системная архитектура современной операционной системы [📖](https://github.com/georgedem975/BookOS/blob/master/chapter_three/README.md)
