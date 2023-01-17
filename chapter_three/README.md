@@ -30,4 +30,4 @@ __Микроядерная архитектура__
 __Гибридная архитектура__
 <p align="center"><img src=https://github.com/georgedem975/BookOS/blob/master/chapter_three/assets/5.png></a></p>
 
-<p align="center"> <a href=https://github.com/georgedem975/BookOS/blob/master/chapter_two/README.md>⬅️</a><a href=https://github.com/georgedem975/BookOS/blob/master/README.md>⏺</a><a href=>➡️</a></p>
+<p align="center"> <a href=https://github.com/georgedem975/BookOS/blob/master/chapter_two/README.md>⬅️</a><a href=https://github.com/georgedem975/BookOS/blob/master/README.md>⏺</a><a href=https://github.com/georgedem975/BookOS/blob/master/chapter_four/README.md>➡️</a></p>
