@@ -9,7 +9,7 @@ Thread (Поток) - отдельный набор команд и контек
 
 Нить (Волокно) - (облегченный поток) совокупность набора команд, находящихся под управлением пользовательского приложения.
 
-![1](https://github.com/georgedem975/BookOS/blob/master/chapter_four/assets/1.png)
+<p align="center"><img src=https://github.com/georgedem975/BookOS/blob/master/chapter_four/assets/1.png></a></p>
 
 __Функции подсистемы управления процессами:__
 1. Создание процессов и потоков
